@@ -12,13 +12,13 @@
 <br><hr>
 
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Zvi-Knoll=Holistic&show_icons=true" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=Zvi-Knoll-Holistic&show_icons=true" width="48%" >
 
 ### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvi-Knoll=Holistic&theme=white" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zvi-Knoll-Holistic&theme=white" width="48%" >
 
 ### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvi-Knoll=Holistic&layout=compact" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zvi-Knoll-Holistic&layout=compact" width="48%" >
 
 <!---
 ZviKnoll/ZviKnoll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
